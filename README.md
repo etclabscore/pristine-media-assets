@@ -1,3 +1,15 @@
+# Pristine Media Assets
+
+This repo contains media assets for Pristine, a documentation driven development standard.
+
+![logo-light](art-src/logo-preview.png)
+![logo-light](art-src/logo-dark-preview.png)
+
+- Regular Logo: `pristine-logo/`
+- Dark Theme Logo: `pristine-logo-dark/`
+- Font: https://www.fontpalace.com/font-details/Skia+Regular/
+- Primary color (purple): `#935bce`
+
 # Pristine
 
 Pristine is an open source repository in its original condition.
